@@ -1,0 +1,21 @@
+ID,Nama,Jenis_Kelamin,Umur,Poli,Keluhan
+P001,Andi,L,25,Umum,Demam
+P002,Siti,P,34,Gigi,Sakit gigi
+P003,Budi,L,42,Umum,Batuk
+P004,Rina,P,28,Anak,Demam
+P005,Doni,L,37,Umum,Pusing
+P006,Aisyah,P,45,Gigi,Sakit gigi
+P007,Fajar,L,22,Anak,Batuk
+P008,Maya,P,31,Umum,Flu
+P009,Rizky,L,50,Umum,Nyeri kepala
+P010,Dewi,P,26,Gigi,Sakit gigi
+P011,Arif,L,33,Umum,Demam
+P012,Nadia,P,39,Anak,Batuk
+P013,Ilham,L,29,Gigi,Sakit gigi
+P014,Putri,P,41,Umum,Flu
+P015,Reza,L,36,Anak,Demam
+P016,Linda,P,24,Umum,Batuk
+P017,Agus,L,48,Gigi,Sakit gigi
+P018,Tiara,P,32,Umum,Pusing
+P019,Dimas,L,27,Anak,Demam
+P020,Fitri,P,44,Umum,Flu
